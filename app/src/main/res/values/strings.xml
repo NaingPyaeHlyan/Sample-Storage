@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Example Storage Sample Application</string>
+
+    <array name="database_name">
+        <item>Share Preference</item>
+        <item>Internal Storage</item>
+        <item>External Storage</item>
+        <item>SQLite</item>
+        <item>Http</item>
+    </array>
+</resources>
